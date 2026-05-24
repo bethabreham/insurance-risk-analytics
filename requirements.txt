@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipykernel
+scipy
+statsmodels
+scikit-learn
+xgboost
+shap
+pytest
+dvc
