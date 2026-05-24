@@ -7,21 +7,37 @@ This project analyzes insurance claim data for AlphaCare Insurance Solutions (AC
 ## Project Structure
 
 insurance-risk-analytics/
+
 ├── .github/workflows/
+
 │   └── ci.yml
+
 ├── data/
+
 │   ├── insurance_data.csv
+
 │   └── insurance_data_cleaned.csv
+
 ├── notebooks/
+
 │   └── 01_eda.ipynb
+
 ├── src/
+
 │   └── eda_utils.py
+
 ├── scripts/
+
 │   └── clean_data.py
+
 ├── tests/
+
 ├── .dvc/
+
 ├── .gitignore
+
 ├── requirements.txt
+
 └── README.md
 
 ## Setup Instructions
